@@ -1,0 +1,332 @@
+Major: ACTG URL: https://webcs7.osss.uic.eduACTG.html
+-----------------------------------
+Major: AH URL: https://webcs7.osss.uic.eduAH.html
+-----------------------------------
+Major: AHS URL: https://webcs7.osss.uic.eduAHS.html
+-----------------------------------
+Major: ANAT URL: https://webcs7.osss.uic.eduANAT.html
+-----------------------------------
+Major: ANTH URL: https://webcs7.osss.uic.eduANTH.html
+-----------------------------------
+Major: ARAB URL: https://webcs7.osss.uic.eduARAB.html
+-----------------------------------
+Major: ARCH URL: https://webcs7.osss.uic.eduARCH.html
+-----------------------------------
+Major: ART URL: https://webcs7.osss.uic.eduART.html
+-----------------------------------
+Major: ASP URL: https://webcs7.osss.uic.eduASP.html
+-----------------------------------
+Major: BA URL: https://webcs7.osss.uic.eduBA.html
+-----------------------------------
+Major: BCMG URL: https://webcs7.osss.uic.eduBCMG.html
+-----------------------------------
+Major: BHIS URL: https://webcs7.osss.uic.eduBHIS.html
+-----------------------------------
+Major: BIOS URL: https://webcs7.osss.uic.eduBIOS.html
+-----------------------------------
+Major: BLST URL: https://webcs7.osss.uic.eduBLST.html
+-----------------------------------
+Major: BME URL: https://webcs7.osss.uic.eduBME.html
+-----------------------------------
+Major: BPS URL: https://webcs7.osss.uic.eduBPS.html
+-----------------------------------
+Major: BSTT URL: https://webcs7.osss.uic.eduBSTT.html
+-----------------------------------
+Major: BVIS URL: https://webcs7.osss.uic.eduBVIS.html
+-----------------------------------
+Major: CC URL: https://webcs7.osss.uic.eduCC.html
+-----------------------------------
+Major: CD URL: https://webcs7.osss.uic.eduCD.html
+-----------------------------------
+Major: CEES URL: https://webcs7.osss.uic.eduCEES.html
+-----------------------------------
+Major: CELE URL: https://webcs7.osss.uic.eduCELE.html
+-----------------------------------
+Major: CEP URL: https://webcs7.osss.uic.eduCEP.html
+-----------------------------------
+Major: CHE URL: https://webcs7.osss.uic.eduCHE.html
+-----------------------------------
+Major: CHEM URL: https://webcs7.osss.uic.eduCHEM.html
+-----------------------------------
+Major: CHIN URL: https://webcs7.osss.uic.eduCHIN.html
+-----------------------------------
+Major: CHSC URL: https://webcs7.osss.uic.eduCHSC.html
+-----------------------------------
+Major: CI URL: https://webcs7.osss.uic.eduCI.html
+-----------------------------------
+Major: CL URL: https://webcs7.osss.uic.eduCL.html
+-----------------------------------
+Major: CLER URL: https://webcs7.osss.uic.eduCLER.html
+-----------------------------------
+Major: CLJ URL: https://webcs7.osss.uic.eduCLJ.html
+-----------------------------------
+Major: CME URL: https://webcs7.osss.uic.eduCME.html
+-----------------------------------
+Major: COMM URL: https://webcs7.osss.uic.eduCOMM.html
+-----------------------------------
+Major: CS URL: https://webcs7.osss.uic.eduCS.html
+-----------------------------------
+Major: CST URL: https://webcs7.osss.uic.eduCST.html
+-----------------------------------
+Major: DADM URL: https://webcs7.osss.uic.eduDADM.html
+-----------------------------------
+Major: DAOB URL: https://webcs7.osss.uic.eduDAOB.html
+-----------------------------------
+Major: DBCS URL: https://webcs7.osss.uic.eduDBCS.html
+-----------------------------------
+Major: DCLE URL: https://webcs7.osss.uic.eduDCLE.html
+-----------------------------------
+Major: DES URL: https://webcs7.osss.uic.eduDES.html
+-----------------------------------
+Major: DHD URL: https://webcs7.osss.uic.eduDHD.html
+-----------------------------------
+Major: DLG URL: https://webcs7.osss.uic.eduDLG.html
+-----------------------------------
+Major: DOSI URL: https://webcs7.osss.uic.eduDOSI.html
+-----------------------------------
+Major: DOST URL: https://webcs7.osss.uic.eduDOST.html
+-----------------------------------
+Major: EAES URL: https://webcs7.osss.uic.eduEAES.html
+-----------------------------------
+Major: ECE URL: https://webcs7.osss.uic.eduECE.html
+-----------------------------------
+Major: ECON URL: https://webcs7.osss.uic.eduECON.html
+-----------------------------------
+Major: ED URL: https://webcs7.osss.uic.eduED.html
+-----------------------------------
+Major: EDPS URL: https://webcs7.osss.uic.eduEDPS.html
+-----------------------------------
+Major: ELSI URL: https://webcs7.osss.uic.eduELSI.html
+-----------------------------------
+Major: ENDO URL: https://webcs7.osss.uic.eduENDO.html
+-----------------------------------
+Major: ENER URL: https://webcs7.osss.uic.eduENER.html
+-----------------------------------
+Major: ENGL URL: https://webcs7.osss.uic.eduENGL.html
+-----------------------------------
+Major: ENGR URL: https://webcs7.osss.uic.eduENGR.html
+-----------------------------------
+Major: ENTR URL: https://webcs7.osss.uic.eduENTR.html
+-----------------------------------
+Major: EOHS URL: https://webcs7.osss.uic.eduEOHS.html
+-----------------------------------
+Major: EPID URL: https://webcs7.osss.uic.eduEPID.html
+-----------------------------------
+Major: EPSY URL: https://webcs7.osss.uic.eduEPSY.html
+-----------------------------------
+Major: FIN URL: https://webcs7.osss.uic.eduFIN.html
+-----------------------------------
+Major: FR URL: https://webcs7.osss.uic.eduFR.html
+-----------------------------------
+Major: GAMD URL: https://webcs7.osss.uic.eduGAMD.html
+-----------------------------------
+Major: GC URL: https://webcs7.osss.uic.eduGC.html
+-----------------------------------
+Major: GEMS URL: https://webcs7.osss.uic.eduGEMS.html
+-----------------------------------
+Major: GEOG URL: https://webcs7.osss.uic.eduGEOG.html
+-----------------------------------
+Major: GER URL: https://webcs7.osss.uic.eduGER.html
+-----------------------------------
+Major: GKA URL: https://webcs7.osss.uic.eduGKA.html
+-----------------------------------
+Major: GKM URL: https://webcs7.osss.uic.eduGKM.html
+-----------------------------------
+Major: GLAS URL: https://webcs7.osss.uic.eduGLAS.html
+-----------------------------------
+Major: GWS URL: https://webcs7.osss.uic.eduGWS.html
+-----------------------------------
+Major: HIM URL: https://webcs7.osss.uic.eduHIM.html
+-----------------------------------
+Major: HIST URL: https://webcs7.osss.uic.eduHIST.html
+-----------------------------------
+Major: HLP URL: https://webcs7.osss.uic.eduHLP.html
+-----------------------------------
+Major: HN URL: https://webcs7.osss.uic.eduHN.html
+-----------------------------------
+Major: HNUR URL: https://webcs7.osss.uic.eduHNUR.html
+-----------------------------------
+Major: HON URL: https://webcs7.osss.uic.eduHON.html
+-----------------------------------
+Major: HPA URL: https://webcs7.osss.uic.eduHPA.html
+-----------------------------------
+Major: IDEA URL: https://webcs7.osss.uic.eduIDEA.html
+-----------------------------------
+Major: IDS URL: https://webcs7.osss.uic.eduIDS.html
+-----------------------------------
+Major: IE URL: https://webcs7.osss.uic.eduIE.html
+-----------------------------------
+Major: INST URL: https://webcs7.osss.uic.eduINST.html
+-----------------------------------
+Major: IPHS URL: https://webcs7.osss.uic.eduIPHS.html
+-----------------------------------
+Major: ISA URL: https://webcs7.osss.uic.eduISA.html
+-----------------------------------
+Major: ITAL URL: https://webcs7.osss.uic.eduITAL.html
+-----------------------------------
+Major: JD URL: https://webcs7.osss.uic.eduJD.html
+-----------------------------------
+Major: JPN URL: https://webcs7.osss.uic.eduJPN.html
+-----------------------------------
+Major: JST URL: https://webcs7.osss.uic.eduJST.html
+-----------------------------------
+Major: KN URL: https://webcs7.osss.uic.eduKN.html
+-----------------------------------
+Major: KOR URL: https://webcs7.osss.uic.eduKOR.html
+-----------------------------------
+Major: LALS URL: https://webcs7.osss.uic.eduLALS.html
+-----------------------------------
+Major: LAS URL: https://webcs7.osss.uic.eduLAS.html
+-----------------------------------
+Major: LAT URL: https://webcs7.osss.uic.eduLAT.html
+-----------------------------------
+Major: LAW URL: https://webcs7.osss.uic.eduLAW.html
+-----------------------------------
+Major: LCSL URL: https://webcs7.osss.uic.eduLCSL.html
+-----------------------------------
+Major: LIB URL: https://webcs7.osss.uic.eduLIB.html
+-----------------------------------
+Major: LING URL: https://webcs7.osss.uic.eduLING.html
+-----------------------------------
+Major: LITH URL: https://webcs7.osss.uic.eduLITH.html
+-----------------------------------
+Major: LRSC URL: https://webcs7.osss.uic.eduLRSC.html
+-----------------------------------
+Major: MATH URL: https://webcs7.osss.uic.eduMATH.html
+-----------------------------------
+Major: MBA URL: https://webcs7.osss.uic.eduMBA.html
+-----------------------------------
+Major: MBT URL: https://webcs7.osss.uic.eduMBT.html
+-----------------------------------
+Major: MCS URL: https://webcs7.osss.uic.eduMCS.html
+-----------------------------------
+Major: MDC URL: https://webcs7.osss.uic.eduMDC.html
+-----------------------------------
+Major: MDCH URL: https://webcs7.osss.uic.eduMDCH.html
+-----------------------------------
+Major: MDP URL: https://webcs7.osss.uic.eduMDP.html
+-----------------------------------
+Major: MDR URL: https://webcs7.osss.uic.eduMDR.html
+-----------------------------------
+Major: ME URL: https://webcs7.osss.uic.eduME.html
+-----------------------------------
+Major: MGMT URL: https://webcs7.osss.uic.eduMGMT.html
+-----------------------------------
+Major: MHPE URL: https://webcs7.osss.uic.eduMHPE.html
+-----------------------------------
+Major: MHUM URL: https://webcs7.osss.uic.eduMHUM.html
+-----------------------------------
+Major: MILS URL: https://webcs7.osss.uic.eduMILS.html
+-----------------------------------
+Major: MIM URL: https://webcs7.osss.uic.eduMIM.html
+-----------------------------------
+Major: MKTG URL: https://webcs7.osss.uic.eduMKTG.html
+-----------------------------------
+Major: MOVI URL: https://webcs7.osss.uic.eduMOVI.html
+-----------------------------------
+Major: MTHT URL: https://webcs7.osss.uic.eduMTHT.html
+-----------------------------------
+Major: MUS URL: https://webcs7.osss.uic.eduMUS.html
+-----------------------------------
+Major: MUSE URL: https://webcs7.osss.uic.eduMUSE.html
+-----------------------------------
+Major: NATS URL: https://webcs7.osss.uic.eduNATS.html
+-----------------------------------
+Major: NEUS URL: https://webcs7.osss.uic.eduNEUS.html
+-----------------------------------
+Major: NS URL: https://webcs7.osss.uic.eduNS.html
+-----------------------------------
+Major: NUEL URL: https://webcs7.osss.uic.eduNUEL.html
+-----------------------------------
+Major: NUPR URL: https://webcs7.osss.uic.eduNUPR.html
+-----------------------------------
+Major: NURS URL: https://webcs7.osss.uic.eduNURS.html
+-----------------------------------
+Major: NUSP URL: https://webcs7.osss.uic.eduNUSP.html
+-----------------------------------
+Major: OMDS URL: https://webcs7.osss.uic.eduOMDS.html
+-----------------------------------
+Major: ORTD URL: https://webcs7.osss.uic.eduORTD.html
+-----------------------------------
+Major: OSCI URL: https://webcs7.osss.uic.eduOSCI.html
+-----------------------------------
+Major: OT URL: https://webcs7.osss.uic.eduOT.html
+-----------------------------------
+Major: PA URL: https://webcs7.osss.uic.eduPA.html
+-----------------------------------
+Major: PATH URL: https://webcs7.osss.uic.eduPATH.html
+-----------------------------------
+Major: PCOL URL: https://webcs7.osss.uic.eduPCOL.html
+-----------------------------------
+Major: PEDD URL: https://webcs7.osss.uic.eduPEDD.html
+-----------------------------------
+Major: PELE URL: https://webcs7.osss.uic.eduPELE.html
+-----------------------------------
+Major: PERI URL: https://webcs7.osss.uic.eduPERI.html
+-----------------------------------
+Major: PHAR URL: https://webcs7.osss.uic.eduPHAR.html
+-----------------------------------
+Major: PHIL URL: https://webcs7.osss.uic.eduPHIL.html
+-----------------------------------
+Major: PHYB URL: https://webcs7.osss.uic.eduPHYB.html
+-----------------------------------
+Major: PHYS URL: https://webcs7.osss.uic.eduPHYS.html
+-----------------------------------
+Major: PMPG URL: https://webcs7.osss.uic.eduPMPG.html
+-----------------------------------
+Major: PMPR URL: https://webcs7.osss.uic.eduPMPR.html
+-----------------------------------
+Major: POL URL: https://webcs7.osss.uic.eduPOL.html
+-----------------------------------
+Major: POLS URL: https://webcs7.osss.uic.eduPOLS.html
+-----------------------------------
+Major: PORT URL: https://webcs7.osss.uic.eduPORT.html
+-----------------------------------
+Major: PPA URL: https://webcs7.osss.uic.eduPPA.html
+-----------------------------------
+Major: PPOL URL: https://webcs7.osss.uic.eduPPOL.html
+-----------------------------------
+Major: PROS URL: https://webcs7.osss.uic.eduPROS.html
+-----------------------------------
+Major: PSCH URL: https://webcs7.osss.uic.eduPSCH.html
+-----------------------------------
+Major: PSCI URL: https://webcs7.osss.uic.eduPSCI.html
+-----------------------------------
+Major: PSOP URL: https://webcs7.osss.uic.eduPSOP.html
+-----------------------------------
+Major: PT URL: https://webcs7.osss.uic.eduPT.html
+-----------------------------------
+Major: PUBH URL: https://webcs7.osss.uic.eduPUBH.html
+-----------------------------------
+Major: RELE URL: https://webcs7.osss.uic.eduRELE.html
+-----------------------------------
+Major: RELS URL: https://webcs7.osss.uic.eduRELS.html
+-----------------------------------
+Major: RES URL: https://webcs7.osss.uic.eduRES.html
+-----------------------------------
+Major: RUSS URL: https://webcs7.osss.uic.eduRUSS.html
+-----------------------------------
+Major: SJ URL: https://webcs7.osss.uic.eduSJ.html
+-----------------------------------
+Major: SOC URL: https://webcs7.osss.uic.eduSOC.html
+-----------------------------------
+Major: SOCW URL: https://webcs7.osss.uic.eduSOCW.html
+-----------------------------------
+Major: SPAN URL: https://webcs7.osss.uic.eduSPAN.html
+-----------------------------------
+Major: SPED URL: https://webcs7.osss.uic.eduSPED.html
+-----------------------------------
+Major: STAT URL: https://webcs7.osss.uic.eduSTAT.html
+-----------------------------------
+Major: SURG URL: https://webcs7.osss.uic.eduSURG.html
+-----------------------------------
+Major: TADR URL: https://webcs7.osss.uic.eduTADR.html
+-----------------------------------
+Major: THTR URL: https://webcs7.osss.uic.eduTHTR.html
+-----------------------------------
+Major: UPA URL: https://webcs7.osss.uic.eduUPA.html
+-----------------------------------
+Major: UPP URL: https://webcs7.osss.uic.eduUPP.html
+-----------------------------------
+Major: US URL: https://webcs7.osss.uic.eduUS.html
+-----------------------------------

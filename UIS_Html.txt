@@ -1,0 +1,603 @@
+<!doctype html>
+<html class="no-js" xml:lang="en" lang="en" dir="ltr">
+
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+<title>Computer Science (CSC) &lt; University of Illinois Springfield</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="search" type="application/opensearchdescription+xml"
+			href="/search/opensearch.xml" title="Catalog" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0" />
+<link href="/images/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" type="text/css" href="/css/reset.css" />
+<link href="https://fonts.googleapis.com/css?family=Roboto:400,400i,500,500i,700,700i" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:400,400i,500,500i,700,700i">
+<link rel="stylesheet" media="all" href="//use.typekit.net/xpf2ijl.css">
+<link rel="stylesheet" media="all" href="//fonts.googleapis.com/css2?family=Raleway:wght@200;400;900&amp;family=Oleo+Script&amp;display=swap">
+<link rel="stylesheet" type="text/css" href="/fonts/font-awesome/font-awesome.min.css" />
+<link rel="stylesheet" type="text/css" href="/css/courseleaf.css" />
+<link rel="stylesheet" type="text/css" href="/css/screen.css?v=20220307" media="screen" />
+<link rel="stylesheet" type="text/css" href="/css/print.css" media="print" />
+<script type="text/javascript" src="/js/jquery.js"></script>
+<script type="text/javascript" src="/js/lfjs.js"></script>
+<script type="text/javascript" src="/js/lfjs_any.js"></script>
+<link rel="stylesheet" type="text/css" href="/js/lfjs.css" />
+<script type="text/javascript" src="/js/courseleaf.js"></script>
+<script type="text/javascript" src="/js/custom.js?v=20220307"></script>
+
+
+
+</head>
+
+
+
+<body class="">
+
+
+
+
+
+<nav aria-label="Skip content menu" class="accessible">
+	<div class="accessible-menu">
+		<ul>
+			<li><a href="#contentarea" rel="section">Skip to Content</a></li>
+			<li><a href="/azindex/">AZ Index</a></li>
+			<li><a href="/">Catalog Home</a></li>
+			<li><a href="https://www.uis.edu">UIS Home</a></li>
+		</ul>
+	</div>
+</nav>
+
+<header id="header">
+    <div id="logo">
+        <a href="https://www.uis.edu"><img src="/images/logo1.png" alt="UIS Home"/></a>
+        <a href="/" class="catalog-wordmark">
+			<span class="catalog-wordmark__edition">2024-2025</span>
+			<span class="catalog-wordmark__catalog">Catalog</span>
+		</a>
+    </div>
+    
+    <button id="hamburger" aria-controls="navigation" data-toggle="#navigation" aria-expanded="false" class="mobile-only">
+        <span class="bars"></span>
+        <span class="sr-only">Menu</span>
+    </button>
+    
+    <nav id="navigation" aria-label="Secondary" aria-hidden="false">
+        <img src="/images/UIS_Wordmark_blue-web.png" alt="UIS Home" class="mobile-only" aria-hidden="true">
+        <ul id="main-nav" class="clearfix">
+            <li><a href="/undergraduate-students" class="first">Undergraduate Students</a></li>
+            <li><a href="/graduate-students">Graduate Students</a></li>
+            <li>
+                <button id="print-btn" aria-controls="print-dialog" onclick="showPrintDialog(); return false;">
+                    <i class="fa fa-print" aria-hidden="true"></i> Print Options
+                </button>
+            </li>
+            <li class="search">
+                <a href="https://www.uis.edu/search">
+                    <span class="sr-only desktop-only">Search uis.edu</span>
+                    <svg aria-hidden="true" focusable="false" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                        <path
+                            d="M505 442.7L405.3 343c-4.5-4.5-10.6-7-17-7H372c27.6-35.3 44-79.7 44-128C416 93.1 322.9 0 208 0S0 93.1 0 208s93.1 208 208 208c48.3 0 92.7-16.4 128-44v16.3c0 6.4 2.5 12.5 7 17l99.7 99.7c9.4 9.4 24.6 9.4 33.9 0l28.3-28.3c9.4-9.4 9.4-24.6.1-34zM208 336c-70.7 0-128-57.2-128-128 0-70.7 57.2-128 128-128 70.7 0 128 57.2 128 128 0 70.7-57.2 128-128 128z">
+                        </path>
+                    </svg>
+                    <span class="mobile-only">Search uis.edu</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</header>
+
+<nav id="breadcrumb" aria-label="Breadcrumbs">
+    <div class="wrap">
+        <nav id="breadcrumb" aria-label="Breadcrumbs">
+<ul><li><a href="/">Home</a><span class="crumbsep">›</span></li><li><a href="/coursedescriptions/">Course&nbsp;Descriptions</a><span class="crumbsep">›</span></li><li><span class="active">Computer Science (CSC)</span></li></ul>
+        </nav>
+    </div>
+</nav>
+
+
+<section id="content-container">
+   <div class="wrap">
+
+      <div id="col-content">
+
+
+			<main id="contentarea">
+				<h1 class="page-title">Computer Science (CSC)</h1>
+
+
+
+
+<div id="textcontainer" class="page_content">
+
+</div><!--end #textcontainer -->
+
+<div id="courseinventorycontainer" class="page_content">
+<a name="courseinventory"> </a>
+<div class="courses">
+<a name="csccourses"></a>
+<h3>Courses</h3>
+
+<div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;225.  Computer Programming Concepts I.  3 Hours.</strong></p>
+<p class="courseblockdesc">
+Structured programming techniques. Emphasis on control structures, procedures, simple data types, and structured data types, including arrays, records, and files. Assigned problems require considerable time in the computer lab. Prior programming experience is recommended. Course Information: IAI Major Code: CS 911.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;275.  Computer Programming Concepts II.  3 Hours.</strong></p>
+<p class="courseblockdesc">
+Extensive top-down design principles to solve non-trivial problems. Emphasis on advanced array applications, dynamic storage, and classes. Programming assignments include implementation of lists, stacks, queues, and recursions. Course Information: Prerequisite: <a href="/search/?P=CSC%20225" title="CSC&#160;225" class="bubblelink code" onclick="return showCourse(this, 'CSC 225');">CSC&#160;225</a>. IAI Major Code: CS 912.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;302.  Discrete Structures.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+This course is designed to introduce the participants to the topics from discrete structures that are relevant to computer science. Topics covered are not limited to number systems, sets, logic, functions and relations, combinations, permutations, probability and statistics. Course Information: Prerequisites: C or better in college algebra. This course fulfills a general education requirement at UIS in the area of Mathematics (IAI Code: M1905) or UIS: Mathematics Skills. IAI Major Code: CS 915.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;305.  Entrance Assessment.  0 Hours.</strong></p>
+<p class="courseblockdesc">
+Evaluation of computer science knowledge on entering the program. <a href="/search/?P=CSC%20305" title="CSC&#160;305" class="bubblelink code" onclick="return showCourse(this, 'CSC 305');">CSC&#160;305</a> must be taken during the student's first semester of enrollment. Course Information: Credit/No Credit grading only.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;316.  ECCE: Wired Perspectives.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+This course examines global power inequities such as global North/South, first world/third world, developed and underdeveloped communities. It promotes knowledge and appreciation of the contributions of understudied and undervalued cultures in developing countries. It examines inequalities in resources in a global context. The vehicle this course uses in this discourse is the digital divide, the dichotomy between the global wired and the global tired. Course Information: This course fulfills an Engaged Citizenship Common Experience requirement at UIS in the area of Global Awareness.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;366.  Introduction to Networking.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+The course provides an introduction to fundamental concepts of computer networking with practical applications. Topics include data communications, networking technologies, OSI model, Internet architecture, LAN, WAN, TCP/IP layers and protocols, network management. Course Information: Prerequisites: <a href="/search/?P=CSC%20275" title="CSC&#160;275" class="bubblelink code" onclick="return showCourse(this, 'CSC 275');">CSC&#160;275</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;367.  Introduction to Cybersecurity.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+This course introduces the fundamental concepts of cybersecurity, common cybersecurity vulnerabilities and threats, and techniques and tools for detecting and defending against cyber-attacks. It teaches how to model threats to computer systems.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;368.  Systems Programming Languages.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+Design principles and implementation of systems programming languages. Topics include syntax data types, control structures, storage management. Four systems programming software language tools will be studied: shell scripts, Perl, PHP, SQL. Class activities and hands-on laboratories. Typical laboratories and class assignments, repetitive tasks, scheduled file maintenance, log file analysis, electronic administrator notification. Course Information: Prerequisites: <a href="/search/?P=CSC%20275" title="CSC&#160;275" class="bubblelink code" onclick="return showCourse(this, 'CSC 275');">CSC&#160;275</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;376.  Computer Organization.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+Introduction to elementary computer architecture and assembly/machine language. Emphasis on the fetch-execute cycle and CPU organization, binary information representations, combinational logic, and sequential circuits. An overview of the memory hierarchy and I/O interfaces included as time permits. Course Information: Prerequisites: <a href="/search/?P=CSC%20275" title="CSC&#160;275" class="bubblelink code" onclick="return showCourse(this, 'CSC 275');">CSC&#160;275</a> and <a href="/search/?P=CSC%20302" title="CSC&#160;302" class="bubblelink code" onclick="return showCourse(this, 'CSC 302');">CSC&#160;302</a>. <a href="/search/?P=CSC%20302" title="CSC&#160;302" class="bubblelink code" onclick="return showCourse(this, 'CSC 302');">CSC&#160;302</a> may be taken concurrently.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;385.  Data Structures and Algorithms.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+Object-oriented software design including sorting and searching algorithms. Implementation of trees, graphs, and other advanced data structures. Algorithm analysis of running times and storage requirements. Course Information: Prerequisites: <a href="/search/?P=CSC%20275" title="CSC&#160;275" class="bubblelink code" onclick="return showCourse(this, 'CSC 275');">CSC&#160;275</a>, <a href="/search/?P=CSC%20302" title="CSC&#160;302" class="bubblelink code" onclick="return showCourse(this, 'CSC 302');">CSC&#160;302</a>, <a href="/search/?P=MAT%20113" title="MAT&#160;113" class="bubblelink code" onclick="return showCourse(this, 'MAT 113');">MAT&#160;113</a> or <a href="/search/?P=MAT%20115" title="MAT&#160;115" class="bubblelink code" onclick="return showCourse(this, 'MAT 115');">MAT&#160;115</a>, <a href="/search/?P=MAT%20121" title="MAT&#160;121" class="bubblelink code" onclick="return showCourse(this, 'MAT 121');">MAT&#160;121</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;387.  Foundations of Computer Science.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+An overview of selected computer science topics: computers and society, software engineering, file structures, database structures, artificial intelligence, theory of computation, and human-computer interaction. Topics are selected to complement material in the core computer science curriculum. Course Information: Prerequisites: <a href="/search/?P=CSC%20275" title="CSC&#160;275" class="bubblelink code" onclick="return showCourse(this, 'CSC 275');">CSC&#160;275</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;388.  Programming Languages.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+Design principles and implementation of computer programming languages. Topics include syntax, data types, control structures, storage management, and binding. Four programming language paradigms studied: imperative, object-oriented, functional, and logical. Languages studied may include  C#, Smalltalk, Java, LISP, and Perl. Course Information: Prerequisites: <a href="/search/?P=CSC%20385" title="CSC&#160;385" class="bubblelink code" onclick="return showCourse(this, 'CSC 385');">CSC&#160;385</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;389.  Introduction to Operating Systems.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+This course explores operating system (OS) concepts, design, and implementation. Topics: OS structures, processes, threads, process synchronization, CPU scheduling, memory management, virtual memory file systems, I/O operations, protection, security. Course Information: Prerequisites: <a href="/search/?P=CSC%20275" title="CSC&#160;275" class="bubblelink code" onclick="return showCourse(this, 'CSC 275');">CSC&#160;275</a>, <a href="/search/?P=CSC%20302" title="CSC&#160;302" class="bubblelink code" onclick="return showCourse(this, 'CSC 302');">CSC&#160;302</a>, <a href="/search/?P=MAT%20113" title="MAT&#160;113" class="bubblelink code" onclick="return showCourse(this, 'MAT 113');">MAT&#160;113</a> or <a href="/search/?P=MAT%20115" title="MAT&#160;115" class="bubblelink code" onclick="return showCourse(this, 'MAT 115');">MAT&#160;115</a>, <a href="/search/?P=MAT%20121" title="MAT&#160;121" class="bubblelink code" onclick="return showCourse(this, 'MAT 121');">MAT&#160;121</a>, <a href="/search/?P=CSC%20385" title="CSC&#160;385" class="bubblelink code" onclick="return showCourse(this, 'CSC 385');">CSC&#160;385</a>, <a href="/search/?P=CSC%20376" title="CSC&#160;376" class="bubblelink code" onclick="return showCourse(this, 'CSC 376');">CSC&#160;376</a>. <a href="/search/?P=CSC%20385" title="CSC&#160;385" class="bubblelink code" onclick="return showCourse(this, 'CSC 385');">CSC&#160;385</a> and <a href="/search/?P=CSC%20376" title="CSC&#160;376" class="bubblelink code" onclick="return showCourse(this, 'CSC 376');">CSC&#160;376</a> may be taken concurrently.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;399.  Tutorial.  1-12 Hours.</strong></p>
+<p class="courseblockdesc">
+Intended to supplement, not supplant, regular course offerings. Students interested in a tutorial must secure the consent of the faculty member concerned before registration and submit any required documentation to him or her. Course Information: May be repeated to a maximum of 12 hours if topics vary.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;405.  Exit Assessment.  0 Hours.</strong></p>
+<p class="courseblockdesc">
+Evaluation of computer science knowledge on graduation. Exit assessment helps students assess the body of knowledge they've attained and helps the program revise its curriculum. <a href="/search/?P=CSC%20405" title="CSC&#160;405" class="bubblelink code" onclick="return showCourse(this, 'CSC 405');">CSC&#160;405</a> must be taken during the student's final semester before graduation. Course Information: Credit/No Credit grading only.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;430.  Foundations of Network Security and Information Assurance.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+Students learn to identify system resources at risk to malicious attacks. Network tools designed to detect and prevent unauthorized access are covered. Demonstrations of tools used to assess and identify vulnerability including penetration analysis, scanners and probes are covered. Case studies and exploit scenarios give students hands-on practice reducing network security threats. Course Information: Prerequisites: <a href="/search/?P=CSC%20366" title="CSC&#160;366" class="bubblelink code" onclick="return showCourse(this, 'CSC 366');">CSC&#160;366</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;431.  Network Security &amp; Computer Ethics.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+This course introduces the basics of network security while describing how the technical decisions associated with network security interact with the values of individuals, organizations, and society. The course includes methods of avoiding, detecting, and analyzing intrusions. Students will examine tradeoffs inherent in security policies, behaviors, and protocols.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;433.  Intrusion Detection.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+Topics will include network and host based intrusion, detection, intrusion detection system implementation Schemes, IP packet analysis tools, schemes for analysis including rules and anomaly detection, and attack signatures. Several IDS tools will be explored by demonstration and exercises. These tools will include Windump, Ethereal, and Snort. Case reports of various recognized attacks will be studied.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;437.  Introduction to Cryptography.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+This course is an introduction to modern cryptography with the emphasis on the fundamental cryptographic primitives such as symmetric and public-key encryption schemes, secure hash functions, digital signatures, and pseudo-random number generators. It also covers basic security protocols such as origin and message authentication protocols. Course Information: Prerequisites: <a href="/search/?P=CSC%20302" title="CSC&#160;302" class="bubblelink code" onclick="return showCourse(this, 'CSC 302');">CSC&#160;302</a> and <a href="/search/?P=CSC%20367" title="CSC&#160;367" class="bubblelink code" onclick="return showCourse(this, 'CSC 367');">CSC&#160;367</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;438.  Systems Security and Information Assurance Capstone.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+This is the capstone course for the Systems Security and Information Assurance concentration in the Computer Science Bachelor's Degree. This course will provide a broad look at Information Security, examining the eight security domains as defined by (ISC)2, the sanctioning organization governing the Certified Information Systems Security Professional (CISSP) certification for information security professionals. Course Information: Prerequisites: <a href="/search/?P=CSC%20366" title="CSC&#160;366" class="bubblelink code" onclick="return showCourse(this, 'CSC 366');">CSC&#160;366</a> and one additional security elective.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;452.  Web Design.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+Learn basic principles of web design and use HTML, XHTML, XML, CSS (Cascading Style Sheets), design and critic a variety of templates, etc. Topics include elements of good design, fonts, and typography, how to use color, graphics, images, multimedia formats, web layout basics, tackling web navigation, accessibility and usability, web design software, and learn HTML, XML, and CSS. Course Information: Prerequisites: <a href="/search/?P=CSC%20275" title="CSC&#160;275" class="bubblelink code" onclick="return showCourse(this, 'CSC 275');">CSC&#160;275</a> or equivalent computer programming experience.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;453.  Web Development and Programming.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+Learn dynamic web page creation and server-side scripting that tailors the content toward the visitor and his or her preferences. A scripting language such as PHP will be taught to enable students to access databases for dynamic content. A comprehensive overview of the basics of PHP, covering important subjects such as control structures,  operators, strings and string functions, arrays and array functions, predefined variables, I/O, cookies and sessions, and more. Course Information: Prerequisites: <a href="/search/?P=CSC%20452" title="CSC&#160;452" class="bubblelink code" onclick="return showCourse(this, 'CSC 452');">CSC&#160;452</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;465.  Windows Network Administration.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+The purpose of this course is to provide students with an organizational and technical look at network administration. Emphasis is placed on Microsoft Windows operating system. The laboratory assignments will involve a considerable amount of hands-on installation, account management, performance monitoring, security, troubleshooting. Course Information: Prerequisites: Familiarity with computer hardware/software.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;470.  Topics in Computer Science.  1-4 Hours.</strong></p>
+<p class="courseblockdesc">
+Various topics; description changes according to topic offered.  See course schedule for prerequisites. Course Information: May be repeated if topics vary. Students may register in more than one section per term.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;471.  Computer Ethics for Computing Professionals.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+Computer ethics explores the interaction between technical decisions and human values. We also study how computing and telecommunications impact society. This class is limited to computer science majors and students with equivalent backgrounds.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;472.  Introduction to Database Systems.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+Examine of file organizations and file access methods, as well as data redundancy. Studies various data models including relational, heretical, network, and object-oriented. Emphasis given to the relational data model SQL, the data definition and manipulation language for relational databases, is described, including database security. Course Information: Prerequisites: <a href="/search/?P=CSC%20275" title="CSC&#160;275" class="bubblelink code" onclick="return showCourse(this, 'CSC 275');">CSC&#160;275</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;478.  Software Engineering Capstone.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+Study of the software life cycle with emphasis on design, documentation, and implementation. Team projects and technical communication skills are emphasized. Students should take this course within their last 12 hours of CSC course work. Course Information: Prerequisites: <a href="/search/?P=CSC%20385" title="CSC&#160;385" class="bubblelink code" onclick="return showCourse(this, 'CSC 385');">CSC&#160;385</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;479.  Introduction to Artificial Intelligence.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+Problem solving methods, data representation and list processing, state-space search strategies, game playing programs, knowledge representation, logic and theorem proving, question answering systems, and natural language processing. Course Information: Prerequisites: <a href="/search/?P=CSC%20385" title="CSC&#160;385" class="bubblelink code" onclick="return showCourse(this, 'CSC 385');">CSC&#160;385</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;482.  Algorithms and Computation.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+The course covers methods and techniques for designing efficient algorithms, analyzing their complexity and applying these algorithms to well-known practical problems and applications. Methods for recognizing and dealing with hard problems are studied. Course Information: Prerequisites: <a href="/search/?P=CSC%20385" title="CSC&#160;385" class="bubblelink code" onclick="return showCourse(this, 'CSC 385');">CSC&#160;385</a>, <a href="/search/?P=CSC%20302" title="CSC&#160;302" class="bubblelink code" onclick="return showCourse(this, 'CSC 302');">CSC&#160;302</a>, <a href="/search/?P=MAT%20113" title="MAT&#160;113" class="bubblelink code" onclick="return showCourse(this, 'MAT 113');">MAT&#160;113</a> or <a href="/search/?P=MAT%20115" title="MAT&#160;115" class="bubblelink code" onclick="return showCourse(this, 'MAT 115');">MAT&#160;115</a>, <a href="/search/?P=MAT%20121" title="MAT&#160;121" class="bubblelink code" onclick="return showCourse(this, 'MAT 121');">MAT&#160;121</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;484.  Introduction to Parallel Processing.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+Familiarizes students with the broad field of parallel computing and parallel algorithms, while giving hands-on experience with computing on a parallel architecture.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;499.  Tutorial.  1-12 Hours.</strong></p>
+<p class="courseblockdesc">
+Intended to supplement, not supplant, regular course offerings. Students interested in a tutorial must secure the consent of the faculty member concerned before registration and submit any required documentation to him or her. Course Information: May be repeated to a maximum of 12 hours if topics vary.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;501.  Graduate Programming Practicum.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+The course teaches graduate object-oriented programming and development using Java. Students learn how to write, test, and debug advanced-level object oriented programs and how to implement various data structures using Java. Some top-down design principles are covered to solve non-trivial problems.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;502.  Problem-Solving Practicum.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+Students will learn key problem-solving skills for interviews for software engineering internships and full-time positions in industry. Students will be encouraged to synthesize the knowledge and the skills they have learned across different courses. Course Information: Prerequisites: <a href="/search/?P=CSC%20501" title="CSC&#160;501" class="bubblelink code" onclick="return showCourse(this, 'CSC 501');">CSC&#160;501</a> or placement exam.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;505.  Graduate Summer Internship.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+The course allows students to explore careers and apply knowledge and skills gained in various classes in a work setting. It is intended as a hands-on learning experience to provide students with a number of valuable skills they can use upon graduation. It is not available to workers regularly employed by the company where the internship is proposed. It is available to both domestic and international students. Course Information: Prerequisites: <a href="/search/?P=CSC%20502" title="CSC&#160;502" class="bubblelink code" onclick="return showCourse(this, 'CSC 502');">CSC&#160;502</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;521.  Linux Implementation/Administration Practicum.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+Students will learn the skills necessary to install, customize and administer the Linux operating system. Emphasis will be placed on learning the professional and technical knowledge base required to implement and administer the Linux operating system in networked environments ranging from a small office to a large distributed enterprise architecture.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;522.  Wireless and Mobile Networks.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+Study of the fundamental concept and design principle of cellular and Wi-Fi wireless technologies. Topics include wireless communication and transmission, channel coding, error detection and correction, cellular network components and architecture, OFDMA, CSMA/CA, IEEE 802.11 WLAN, and 5G implications for loT, cloud and edge computing.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;523.  Cloud Computing.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+This course includes a study of the fundamental concepts and design principles of cloud computing. Topics include cloud computing service models, cloud computing infrastructures, could computing platforms, data-parallel programming model, computer cluster, grid computing, datacenter, virtual machines, virtualization techniques, edge computing, Internet of things, and future trend for cloud computing.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;524.  Computer Networking Principles.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+This course identifies fundamental computer networking issues and studies technical approaches towards addressing these issues. Topics include design principles of computer network protocols at the application layer (e.g., HTTP, SMPT, DNS, P2P),  transport layer (e.g., UDP, TCP), network layer (e.g. IP, DHCP, NAT, OSPF, BGP, SDN), and data link layer (e.g., CRC, ARP, CSMA, VLAN).<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;525.  Beginning 3D Game Development.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+The course introduces the foundations of 3D game development and provides students with hands-on experience in building 3D games from scratch using an industry-leading game development engine. It is a practical and skills-oriented course designed for beginners.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;526.  Containerization and Bigdata.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+Containers are one of the hottest topics in the IT world and play a vital role in modern data centers. It can provide a highly scalable application environment while also maximally using hardware. The course will use a project-based learning approach with various hands-on exercises to explore containerization and orchestration for Big data analytics and processing. Topics include: Docker, Docker Swarm, and Kubernetes.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;527.  Security Testing Essentials.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+Covers essential content for testing organization network, host, web and mobile security, including but not limited to: network scanning and reconnaissance, exploit discovery and mitigation, remote administration, password recovery, wireless security, denial of service, SQL injection, web security, social engineering. Lab intensive and has a substantial hands-on component.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;531.  Artificial Intelligence for Cybersecurity.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+This course will cover the fundamental theory and practice of applying artificial intelligence tools in the context of cybersecurity. Core concepts and techniques will be taught on machine learning and data mining and practical experiences will be taken to applying them to solve the typical problems in cybersecurity, which will help deeply understand the topics in security and design new approaches to improve the solutions in security area.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;532.  Introduction to Machine Learning.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+Machine learning explores the design and the study of algorithms that can learn from data or experience, improve their performance, and make predictions. The course provides an overview of many concepts, techniques, and algorithms in machine learning, including supervised learning, unsupervised learning, reinforcement learning, and neural networks. Course Information: Prerequisites: <a href="/search/?P=CSC%20385" title="CSC&#160;385" class="bubblelink code" onclick="return showCourse(this, 'CSC 385');">CSC&#160;385</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;533.  Data Mining.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+This course teaches advanced techniques for discovering hidden patterns in the rapidly growing data generated by businesses, science, web, and other sources. Focus is on the key tasks of data mining, including data preparation, classification, clustering, association rule mining, and evaluation. Course Information: Course is restricted to MS CSC majors and MS DAT majors only. Prerequisites: <a href="/search/?P=CSC%20385" title="CSC&#160;385" class="bubblelink code" onclick="return showCourse(this, 'CSC 385');">CSC&#160;385</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;534.  Big Data Analytics.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+This course teaches concepts and techniques in managing and analyzing large data sets. Focus is on big data management, storage solutions, query processing, analytics, and big data applications. Topics include: introduction to Hadoop and YARN, MapReduce, Apache Spark, Big Data Warehousing with Hive and Spark SQL, large scale recommender systems and Large Scale Clustering and Classification. Course Information: Prerequisites: <a href="/search/?P=CSC%20385" title="CSC&#160;385" class="bubblelink code" onclick="return showCourse(this, 'CSC 385');">CSC&#160;385</a>, <a href="/search/?P=CSC%20472" title="CSC&#160;472" class="bubblelink code" onclick="return showCourse(this, 'CSC 472');">CSC&#160;472</a>, <a href="/search/?P=CSC%20532" title="CSC&#160;532" class="bubblelink code" onclick="return showCourse(this, 'CSC 532');">CSC&#160;532</a> (co-requisite).<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;535.  Deep Learning.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+Deep learning is among the most used Artificial Intelligence methods and has numerous applications in various domains.  This course provides applied and theoretical understanding of Artificial Neural Networks and deep learning. Students will use deep learning to tackle complex problems such as computer vision and language understanding. Course Information: Prerequisites: <a href="/search/?P=CSC%20385" title="CSC&#160;385" class="bubblelink code" onclick="return showCourse(this, 'CSC 385');">CSC&#160;385</a>, <a href="/search/?P=CSC%20532" title="CSC&#160;532" class="bubblelink code" onclick="return showCourse(this, 'CSC 532');">532</a> and knowledge of linear Algebra, calculus and probability.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;536.  Natural Language Processing.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+The course introduces fundamental concepts, theory and practice of Natural Language Processing, a field of Artificial Intelligence devoted to creating computer systems that understand and produce human languages. We will introduce classic and statistical approaches to NLP, including deep learning and large language models, and will expose students to state-of-the-art tools and technologies, their applications and their impact on society.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;537.  Digital Imaging Processing.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+This course is an introduction to digital imaging processing. We will cover topics in both the basic theories and methodologies of digital imaging processing that can be introduced by simple mathematics; however, these topics provide very broad introduction to the discipline. We will start with the basic levels of concepts and theories and work down through the implementations of major algorithm of a modern image processing system.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;540.  Graduate Research Seminar.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+Students will investigate research and writing techniques in the field of computer science. Students must produce a formal document that demonstrates they have attained an appropriate understanding of professional ethics and research skills required of IT professionals. <a href="/search/?P=CSC%20540" title="CSC&#160;540" class="bubblelink code" onclick="return showCourse(this, 'CSC 540');">CSC&#160;540</a> serves as the master's closure exercise and must be taken for a letter grade. NOTE: Students who have NOT made satisfactory progress in <a href="/search/?P=CSC%20540" title="CSC&#160;540" class="bubblelink code" onclick="return showCourse(this, 'CSC 540');">CSC&#160;540</a> will be assigned a grade lower than B- and will have to register for and retake the course. Students who have made satisfactory progress in <a href="/search/?P=CSC%20540" title="CSC&#160;540" class="bubblelink code" onclick="return showCourse(this, 'CSC 540');">CSC&#160;540</a>, but have not completed the final course document can petition the Department of Computer Science to complete the remaining document by enrolling in <a href="/search/?P=CSC%20541" title="CSC&#160;541" class="bubblelink code" onclick="return showCourse(this, 'CSC 541');">CSC&#160;541</a> Graduate Research Seminar Continuing Enrollment (zero credit hours, one billable hour) for a maximum of two consecutive non-summer semesters.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;541.  Graduate Research Seminar Continuing Enrollment.  0 Hours.</strong></p>
+<p class="courseblockdesc">
+Refer to NOTE in course description for <a href="/search/?P=CSC%20540" title="CSC&#160;540" class="bubblelink code" onclick="return showCourse(this, 'CSC 540');">CSC&#160;540</a>. Course Information: May be repeated for a maximum of two consecutive non-summer semesters.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;550.  Master's Project/Thesis.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+An individual study to demonstrate the ability to formulate, investigate, and analyze a problem and to report results. Written report and oral presentation are required. Guidelines for completing this requirement are available from the CSC program and must be consulted before any work is begun.  NOTE: If the project/thesis is not completed during the initial four-hour enrollment, students must register for <a href="/search/?P=CSC%20551" title="CSC&#160;551" class="bubblelink code" onclick="return showCourse(this, 'CSC 551');">CSC&#160;551</a> for zero credit hours (one billable hour) in all subsequent semesters until the project/thesis is completed. Course Information: Credit/No Credit grading only. May be repeated to a maximum of 4 hours. Prerequisites: Approval of the project/thesis supervisor.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;551.  Master's Project/Thesis Continuing Enrollment.  0 Hours.</strong></p>
+<p class="courseblockdesc">
+Refer to NOTE in course description for <a href="/search/?P=CSC%20550" title="CSC&#160;550" class="bubblelink code" onclick="return showCourse(this, 'CSC 550');">CSC&#160;550</a>. Course Information: May be repeated.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;561.  NoSQL Databases.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+Traditional data management techniques (schema-driven databases) do not meet the need to manage the varying storage techniques and technologies used for today's data. NoSQL (Not only SQL) databases have emerged as a means of managing distributed, high-volume, complex data. This course will use a hands-on laboratory approach to explore the different types of NoSQL Databases. Course Information: Course is restricted to MS CSC majors and MS DAT majors only. Prerequisites: <a href="/search/?P=CSC%20385" title="CSC&#160;385" class="bubblelink code" onclick="return showCourse(this, 'CSC 385');">CSC&#160;385</a> and <a href="/search/?P=CSC%20472" title="CSC&#160;472" class="bubblelink code" onclick="return showCourse(this, 'CSC 472');">CSC&#160;472</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;562.  Data Visualization.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+This course is designed to help students acquire the knowledge and skills to analyze information and, more importantly, to draw conclusions from analysis. This course is not about using advanced mathematics to solve problems. It's about learning to use computer technology, especially visualization (graphs, histograms, pie charts), to look at and understand data in a more intuitive and visual manner. Course Information: Course is restricted to MS CSC majors and MS DAT majors only. Prerequisites: <a href="/search/?P=CSC%20385" title="CSC&#160;385" class="bubblelink code" onclick="return showCourse(this, 'CSC 385');">CSC&#160;385</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;564.  Computer Security.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+This course provides students with a background, foundation, and insight into the subject of Computer Security at a graduate level. It covers various attack techniques and defenses. The course surveys different threats to computer security and methods for preventing intrusions. We study how computer vulnerabilities arise and survey the controls that can reduce or block security.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;570.  Advanced Topics in Computer Systems.  1-4 Hours.</strong></p>
+<p class="courseblockdesc">
+Topics vary. See course schedule for prerequisites. Course Information: May be repeated if topics vary. Students may register in more than one section per term.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;571.  Graduate Algorithms Design and Applications.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+Provide a finer level of details for algorithms to build solid understanding. Topics: dynamic programming, divide/conquer, FFT, graph and flow algorithms, number theoretical algorithm, linear programming, NP-completeness, and approximation and randomized algorithms. Course Information: Prerequisites: Undergraduate-level data structures and algorithms, and discrete mathematics. Necessary math backgrounds will be introduced to make this course self-contained.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;572.  Advanced Database Concepts.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+Study of the implementation of relational database management systems. Topics include database design algorithms, query implementation, execution and optimization, transaction processing, concurrency control, recovery, distributed query processing, and database security. One of the following advanced database topics will also be discussed: deductive databases, parallel databases, knowledge discovery/data mining, data warehousing. Course Information: Course is restricted to MS CSC majors and MS DAT majors only. Prerequisites: <a href="/search/?P=CSC%20472" title="CSC&#160;472" class="bubblelink code" onclick="return showCourse(this, 'CSC 472');">CSC&#160;472</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;574.  Distributed Computing.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+This course covers advanced topics in computer operating systems with a special emphasis on distributed systems.  Topics include middleware, naming and directory services, security, remote method invocation, concurrency, transactions, replication, and message passing. Course Information: Prerequisite: <a href="/search/?P=CSC%20389" title="CSC&#160;389" class="bubblelink code" onclick="return showCourse(this, 'CSC 389');">CSC&#160;389</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;577.  Software Testing and Reliability.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+Advanced and classic models of testing software are reviewed and critiqued. Current practice and novel theories of reliability are studied, using primary computer science research literature. Some automated testing tools will be used. Course Information: Prerequisites: <a href="/search/?P=CSC%20478" title="CSC&#160;478" class="bubblelink code" onclick="return showCourse(this, 'CSC 478');">CSC&#160;478</a>.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;583.  Network Programming.  4 Hours.</strong></p>
+<p class="courseblockdesc">
+A historical and technical study of network programming. Emphasis is placed on various network protocols and on the TCP/IP protocol in particular. Assignments involve writing client/server code for Unix in the Java programming language. Course Information: Prerequisites: A working knowledge of Unix and the ability to program in Java.<br />
+</p>
+</div><div class="courseblock">
+<p class="courseblocktitle"><strong>CSC&#160;599.  Tutorial.  1-12 Hours.</strong></p>
+<p class="courseblockdesc">
+Intended to supplement, not supplant, regular course offerings. Students interested in a tutorial must secure the consent of the faculty member concerned before registration and submit any required documentation to him or her. Course Information: May be repeated to a maximum of 12 hours if topics vary.<br />
+</p>
+</div>
+</div>
+
+</div>
+
+
+
+         </main>
+      </div> <!-- end col-content -->
+      <div id="col-nav">
+         <button id="sidebar-toggle" aria-expanded="false" data-toggle="#sidebar">
+            <i class="fa fa-bars" aria-hidden="true"></i>
+            <span>2024-2025 Edition</span>
+         </button>
+         <aside id="sidebar">
+            <div class="sidebar-item">
+               <h2 id="edition" class="sidebar-header"><a href="/">2024-2025 Edition</a></h2>
+               <div class="search" id="cat-search">
+                  <form action="/search/">
+                     <label for="cat-search-term" class="sr-only">Search catalog</label>
+                     <input class="search-field" type="text" name="search" id="cat-search-term" placeholder="Search..." />
+                     <button class="search-button" type="submit">
+                        <i class="fa fa-search" aria-hidden="true"></i>
+                        <span class="sr-only">Submit search</span>
+                     </button>
+<!--%?pagebasedir?% <input type="hidden" name="caturl" value="/coursedescriptions" /> -->
+                  </form>
+               </div>
+               <nav id="cl-menu" aria-label="Primary">
+<ul class="nav levelzero" id="/">
+	<li class="isparent"><a href="/general-info/">General Information</a></li>
+	<li><a href="/campusconnections/">Campus Connections</a></li>
+	<li class="separator"><a href="/chancellor/">From the Chancellor</a></li>
+	<li class="isparent"><a href="/admissions-academic-info-all-students/">Admissions and Academic Information for All Students</a></li>
+	<li><a href="/degreesoffered/">Degrees Offered</a></li>
+	<li class="isparent"><a href="/admissionsrequirements/">Admissions Requirements</a></li>
+	<li class="isparent"><a href="/undergraduate-students/">Undergraduate Students</a></li>
+	<li class="isparent"><a href="/graduate-students/">Graduate Students</a></li>
+	<li class="active isparent"><a href="/coursedescriptions/">Course Descriptions</a>
+	<ul class="nav levelone" id="/coursedescriptions/">
+		<li><a href="/coursedescriptions/acc/">Accounting (ACC)</a></li>
+		<li><a href="/coursedescriptions/aas/">African-&#8203;American Studies (AAS)</a></li>
+		<li><a href="/coursedescriptions/asp/">Astronomy-&#8203;Physics (ASP)</a></li>
+		<li><a href="/coursedescriptions/ath/">Athletic Training (ATH)</a></li>
+		<li><a href="/coursedescriptions/bio/">Biology (BIO)</a></li>
+		<li><a href="/coursedescriptions/bus/">Business Administration (BUS)</a></li>
+		<li><a href="/coursedescriptions/cap/">Capital Scholars (CAP)</a></li>
+		<li><a href="/coursedescriptions/che/">Chemistry (CHE)</a></li>
+		<li><a href="/coursedescriptions/com/">Communication (COM)</a></li>
+		<li class="active self"><a href="#" onclick="return false;">Computer Science (CSC)</a></li>
+		<li><a href="/coursedescriptions/ccj/">Criminology and Criminal Justice (CCJ)</a></li>
+		<li><a href="/coursedescriptions/dataanalytics/">Data Analytics (DAT)</a></li>
+		<li><a href="/coursedescriptions/eco/">Economics (ECO)</a></li>
+		<li><a href="/coursedescriptions/edl/">Educational Leadership (EDL)</a></li>
+		<li><a href="/coursedescriptions/eng/">English (ENG)</a></li>
+		<li><a href="/coursedescriptions/ens/">Environmental Studies (ENS)</a></li>
+		<li><a href="/coursedescriptions/exr/">Exercise Science (EXR)</a></li>
+		<li><a href="/coursedescriptions/fin/">Finance (FIN)</a></li>
+		<li><a href="/coursedescriptions/hci/">Healthcare Informatics (HCI)</a></li>
+		<li><a href="/coursedescriptions/his/">History (HIS)</a></li>
+		<li><a href="/coursedescriptions/hdc/">Human Development Counseling (HDC)</a></li>
+		<li><a href="/coursedescriptions/hms/">Human Services (HMS)</a></li>
+		<li><a href="/coursedescriptions/igs/">International and Global Studies (IGS)</a></li>
+		<li><a href="/coursedescriptions/ipl/">Internships and Prior Learning (IPL)</a></li>
+		<li><a href="/coursedescriptions/les/">Legal Studies (LES)</a></li>
+		<li><a href="/coursedescriptions/lnt/">Liberal and Integrative Studies (LNT)</a></li>
+		<li><a href="/coursedescriptions/lis/">Liberal Studies (LIS)</a></li>
+		<li><a href="/coursedescriptions/mgt/">Management (MGT)</a></li>
+		<li><a href="/coursedescriptions/mis/">Management Information Systems (MIS)</a></li>
+		<li><a href="/coursedescriptions/mkt/">Marketing (MKT)</a></li>
+		<li><a href="/coursedescriptions/mat/">Mathematical Sciences (MAT)</a></li>
+		<li><a href="/coursedescriptions/mls/">Medical Laboratory Science (MLS)</a></li>
+		<li><a href="/coursedescriptions/lng/">Modern Languages (LNG)</a></li>
+		<li><a href="/coursedescriptions/mus/">Music (MUS)</a></li>
+		<li><a href="/coursedescriptions/phi/">Philosophy (PHI)</a></li>
+		<li><a href="/coursedescriptions/psc/">Political Science (PSC)</a></li>
+		<li><a href="/coursedescriptions/psy/">Psychology (PSY)</a></li>
+		<li><a href="/coursedescriptions/pad/">Public Administration (PAD)</a></li>
+		<li><a href="/coursedescriptions/par/">Public Affairs Reporting (PAR)</a></li>
+		<li><a href="/coursedescriptions/mph/">Public Health (MPH)</a></li>
+		<li><a href="/coursedescriptions/swk/">Social Work (SWK)</a></li>
+		<li><a href="/coursedescriptions/soa/">Sociology/&#8203;Anthropology (SOA)</a></li>
+		<li><a href="/coursedescriptions/spm/">Sport Management (SPM)</a></li>
+		<li><a href="/coursedescriptions/tep/">Teacher Education (TEP)</a></li>
+		<li><a href="/coursedescriptions/the/">Theatre (THE)</a></li>
+		<li><a href="/coursedescriptions/uni/">University Courses (UNI)</a></li>
+		<li><a href="/coursedescriptions/art/">Visual Arts (ART)</a></li>
+		<li><a href="/coursedescriptions/wgs/">Women and Gender Studies (WGS)</a></li>
+	</ul>
+	</li>
+	<li class="exdent separator"><a href="/uillinois-organization/">University of Illinois -&#8203; Organization</a></li>
+	<li class="separator"><a href="/faculty/">Faculty</a></li>
+</ul>
+               </nav>
+            </div>
+
+            <!-- <button id="print-btn" href="#print-dialog" onclick="showPrintDialog(); return false;">
+               <i class="fa fa-print" aria-hidden="true"></i> Print Options
+            </button> -->
+         </aside>
+      </div> <!-- end col-nav --> 
+   </div>
+</section>
+
+<footer id="footer">
+    <div class="wrap">
+        <div class="col left">
+            <ul>
+                <li><a href="https://www.uis.edu/disability">Disability Services</a></li>
+                <li><a href="https://www.uis.edu/aeo/title-ix/title-ix-team">Title IX</a></li>
+                <li><a href="https://www.uis.edu/academic-affairs/about/department-education-complaint-process">Online Course Complaint Form</a></li>
+            </ul>
+        </div>
+        <div class="col middle">
+            <img alt="UIS wordmark" src="/images/UIS_Wordmark_white-web.png" width="249" height="91"> 
+            <address>
+                <p> One University Plaza 
+                    <br>Springfield, Illinois 62703 
+                    <br>ph:217.206.6600 
+                    <br><a href="mailto:admissions@uis.edu">admissions@uis.edu</a>
+                </p>
+            </address>
+        </div>
+        <div class="col right">
+            <ul>
+                <li><a href="https://www.uis.edu/consumer-info">Consumer Info</a></li>
+                <li><a href="https://www.uis.edu/accreditation">Institutional Accreditation</a></li>
+                <li><a href="https://www.uis.edu/policy/student-grievance-code">Student Grievances</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="base">
+        <div class="baseleft">
+            <div class="copyright-txt"><a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Privacy Statement</a> | <a href="https://www.hr.uillinois.edu/contacts">Nondiscrimination Statement</a> | <a href="https://www.hr.uillinois.edu/cms/One.aspx?portalId=4292&amp;pageId=5671">System Statement on Sex Discrimination</a></div>
+        </div>
+        <div class="baseright">
+            <div class="system-txt">© 2024-2025 The Board of Trustees of the University of Illinois.&nbsp;<a href="https://www.uillinois.edu/">University of Illinois System</a> | <a href="https://illinois.edu/">Urbana-Champaign</a> | <a href="http://www.uic.edu/">Chicago</a></div>
+        </div>
+    </div>
+    <div id="tip-top">
+        <a href="https://www.uis.edu" class="whenstuck" aria-hidden="true">
+            <img src="/images/UIS_Wordmark_white-web.png" alt="UIS Home" />
+            <span class="abar" aria-hidden="true"></span>
+        </a>
+        <ul>
+            <li><a href="https://www.uis.edu/apply">Apply</a></li>
+            <li><a href="https://www.uis.edu/visit">Visit</a></li>
+            <li><a href="https://www.uis.edu/give">Give</a></li>
+        </ul>
+    </div>
+   <a href="#header" id="totop"><span class="sr-only">Back to top</span></a>
+</footer>
+
+<div id="print-dialog" aria-labelledby="dialog-title" class="screen" role="dialog">
+   <div class="print-header">
+      <button onclick="hidePrintDialog(); return false;" aria-controls="#print-dialog">
+         <span class="sr-only">Close this window</span>
+      </button>
+      <h2 id="dialog-title">Print Options</h2>
+   </div>
+   <div class="print-body">
+      <ul>
+         <li>
+            <p><a class="option-name" href="#"  role="button" onclick="hidePrintDialog();window.print();return false">Send Page to Printer</a></p>
+            <p class="option-desc">Print this page.</p>
+         </li>
+<li><p><a class="option-name" href="/coursedescriptions/csc/csc.pdf" role="button">Download Page (PDF)</a></p><p class="option-desc">The PDF will include all information unique to this page.</p></li><li><p><a class="option-name" href="/pdf/University%20of%20Illinois%20Springfield%202024-2025.pdf" target="_blank">2024-2025 Catalog</a></p><p class="option-desc">A PDF of the entire 2024-2025 catalog.</p></li>      </ul>
+   </div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,1174 @@
+<!DOCTYPE html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html lang="en">
+    <head>
+        <title>Course Explorer</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+        <!--<meta http-equiv="X-UA-Compatible" content="IE=edge">-->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link type="image/x-icon" href="/static/images/favicon.ico" rel="icon">
+        
+    
+        
+
+<script src="https://cdn.cookielaw.org/consent/fd31c61a-15d6-4769-9802-5eafcc1098ba.js" type="text/javascript" charset="UTF-8"></script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-52702852-2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-52702852-2');
+</script>
+
+<link rel="stylesheet" href="/static/css/cis/cis.min.css">
+
+<!--[if lte IE 9]>
+    <script src="/static/bootstrap/common/html5shiv.min.js"></script>
+    <script src="/static/bootstrap/common/respond.js"></script>
+ <![endif]-->
+
+<script src="/static/js/cis.min.js"></script>
+
+
+
+
+
+    
+    
+        
+    
+
+    </head>
+    <body>
+        
+        
+        <noscript><div id="noscript-padding"></div></noscript>
+        
+        
+        <div id="wrap">
+            
+            
+            <div role="banner">
+    <div id="header-wrap">
+        <div id="header-container" class="container">
+            <div class="row">
+                <div id="header" class="span12 hidden-xs">
+                    <a id="header-title" href="http://illinois.edu/" target="_blank">University of Illinois Urbana-Champaign</a>
+                    <ul id="login-info" class="list-unstyled list-inline pull-right">
+                        <li><b>Hello Guest</b></li>
+                        <!--<li><a href="https://illinois.edu/fb/sec/2080949">Contact Us</a></li>-->
+                        <li>
+                            
+                                <a href="/login/oidc">Login</a>
+                            
+                            
+                        </li>
+                    </ul>
+                </div>
+                <div id="header-mobile" class="span12 visible-xs-block">
+                    <a id="header-title" href="http://illinois.edu/" target="_blank">University of Illinois Urbana-Champaign</a>
+                    <br/>
+                    <ul id="login-info" class="list-unstyled list-inline">
+                        <li><b>Hello Guest</b></li>
+                        <!--<li><a href="https://illinois.edu/fb/sec/2080949">Contact Us</a></li>-->
+                        <li>
+                            
+                                <a href="/login/oidc">Login</a>
+                            
+                             
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>    
+    <div id="header-brand-wrap" class="hidden-xs">
+        <div class="container">
+            <div class="row">
+                <div id="header-brand" class="col-xs-6">
+                    <a target="_blank" href="http://illinois.edu">
+                        <img alt="Illinois logo" src="/static/images/Illinois-Logo.png" />
+                    </a>
+                    <a id="header-brand-title" class="noxs" href="/">Course Explorer</a>
+                </div>
+                <div id="header-brand" class="col-xs-6 easy-autocomplete" style="padding-top: 15px;">
+                    <form id="subjectAutoJump-form" action="/schedule/subjectjump" class="form-inline pull-right"  method="post">
+                        <div class="form-group" >
+                            <label id="cb1-label" for="subjectAutoJump" class="sr-only">Enter and go to subject for the enrolling term</label>
+                            <input id="subjectAutoJump" class="form-control" name="subjectAutoJump" placeholder="Go to subject..."
+                                   role="combobox" aria-labelledby="cb1-label" aria-autocomplete="list"
+                                   aria-owns="subject-jump-list" aria-readonly="false"/>
+                        </div>
+                        <button type="submit" class="btn btn-default">Go!</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="header-brand-wrap-xs" class="visible-xs-block">            
+        <div class="container">
+            <div class="row">
+                <div id="header-brand" class="span12">
+                    <a id="header-brand-title-xs" href="/">Course Explorer</a>
+                </div>
+            </div>    
+        </div>
+    </div>
+</div>
+            
+            
+            <div class="container">
+
+
+
+
+
+
+
+
+
+
+
+
+                
+                <div id="app-main-nav" class="navbar navbar-default" role="navigation" aria-label="primary">
+    <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+    </div>
+    
+    <div class="collapse navbar-collapse navbar-ex1-collapse">
+        <ul class="nav navbar-nav nav-justified">
+            
+            
+                
+                
+                    <li><a href="/">Home</a></li>
+                
+            
+                
+            
+                
+                    <li class="navbar-text">Schedule</li>
+                
+                
+            
+                
+            
+                
+                
+                    <li><a href="/gened/DEFAULT/DEFAULT">GenEd&#160;REQs</a></li>
+                
+            
+                
+            
+                
+                
+                    <li><a href="/search/form">Search</a></li>
+                
+            
+                
+            
+                
+                
+                    <li><a href="/resources">Resources</a></li>
+                
+                
+            
+            
+        </ul>
+        
+    </div> 
+</div> 
+
+
+
+
+
+<script type="text/javascript">
+    var sectionDataObj = [{"status":"<span class=\"hide\">2<\/span><span class=\"sr-only\">section restricted<\/span><img src=\"\/static\/images\/sectionRestricted.png\" title=\"Open (Restricted)\" alt=\"Open (Restricted)\"\/>","favorite":"<a href=\"\/login\/refresh?r=\/schedule\/2024\/fall\/CS\/211\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"><\/span> <\/a>","crn":"77707","type":"<div class=\"app-meeting\">Lecture-Discussion<\/div>","section":"<div class=\"app-meeting\">CSP<\/div>","time":"<span class=\"hide\">1000<\/span><div class=\"app-meeting\">10:00AM - 12:50PM<\/div>","day":"<div class=\"app-meeting\">F      <\/div>","location":"<div class=\"app-meeting\">ARR Illini Center<\/div>","instructor":"<div class=\"app-meeting\">Winter, G<br \/><\/div>","availability":"Open (Restricted)","credit":"3 hours","sectionTitle":null,"sectionDescription":null,"courseDescription":null,"sectionDegreeNotes":null,"courseDegreeNotes":"Advanced Composition course.","specialApproval":"","approvalCode":null,"sectionFee":"","sectionDateRange":"Meets 08\/26\/24-12\/11\/24","partOfTerm":"1","info":"This section is intended for Chicago City Scholars only. There may be online and in person components. You are responsible for completing homeworks, quizzes, and any in person activities that are required. Please speak with your professor regarding expectations. The class will be held in conference room 707 in 200 S. Wacker Dr. Chicago.","corequest":null,"restricted":"Restricted to Undergrad - Urbana-Champaign.<br\/>Restricted to O\/C Engineering City Scholars students.<br\/>"},{"status":"<span class=\"hide\">3<\/span><span class=\"sr-only\">section closed<\/span><img src=\"\/static\/images\/sectionClosed.png\" title=\"Closed\" alt=\"Closed\"\/>","favorite":"<a href=\"\/login\/refresh?r=\/schedule\/2024\/fall\/CS\/211\" data-toggle=\"popover\" data-trigger=\"hover\" data-content=\"Add this Section to a personalized favorites list.  Must be logged in.\"><span class=\"glyphicon glyphicon-star-empty app-font16 aria-label=Activate to add to favorites. \"><\/span> <\/a>","crn":"74483","type":"<div class=\"app-meeting\">Lecture-Discussion<\/div>","section":"<div class=\"app-meeting\">EA1<\/div>","time":"<span class=\"hide\">1500<\/span><div class=\"app-meeting\">03:00PM - 03:50PM<\/div>","day":"<div class=\"app-meeting\">MWF    <\/div>","location":"<div class=\"app-meeting\">1404 Siebel Center for Comp Sci<\/div>","instructor":"<div class=\"app-meeting\">Cunningham, R<br \/><\/div>","availability":"Closed","credit":"3 hours","sectionTitle":null,"sectionDescription":null,"courseDescription":null,"sectionDegreeNotes":null,"courseDegreeNotes":"Advanced Composition course.","specialApproval":"","approvalCode":null,"sectionFee":"","sectionDateRange":"Meets 08\/26\/24-12\/11\/24","partOfTerm":"1","info":"Advanced Comp for CS 210. For up-to-date information about CS course restrictions, please see the following link: http:\/\/go.cs.illinois.edu\/csregister","corequest":null,"restricted":"Restricted to Undergrad - Urbana-Champaign.<br\/>Restricted to Computer Science major(s).<br\/>Not intended for First Time Freshman students.<br\/>"}];
+    var studentRole = false;
+    var showStatus = true;
+    //console.log(sectionDataObj);
+</script> 
+
+<div id="app-content" role="main">
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+    
+    
+    
+    <ul class="breadcrumb app-breadcrumb" role="navigation" aria-label="breadcrumbs">
+        <li><a href="/schedule">schedule</a></li>
+        <li><a href="/schedule/2024">2024</a></li>
+        <li><a href="/schedule/2024/fall">fall</a></li>
+        <li><a href="/schedule/2024/fall/CS">CS</a></li>
+        <li class="active">211</li>
+    </ul>
+    
+    <div class="row">
+        <div class="col-sm-12">
+
+            
+
+            <div class="lead app-table-lead" style="margin-bottom:2px;">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <h1 class="app-inline">CS 211</h1>
+                        <div class="app-text-engage pull-right">
+                            
+                            <span class="app-cap">fall 2024</span>
+                            
+                            <div class="pull-right app-text-focus" style="font-size: 12px;line-height:13px;padding-left:10px;">
+                                <div>&#160;</div>
+                                <div>All Classes</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                            
+            
+
+            
+    
+            
+                            
+            
+            
+
+            
+                            
+            <div id="app-course-info" class="row" app-label="course information">
+                <div class="col-sm-12">
+                    <span class="app-label app-text-engage">Ethical and Professional Conduct</span>
+                    <ul class="pull-right list-inline list-unstyled">
+                        <li><a target="_BLANK" href="http://catalog.illinois.edu/courses-of-instruction/cs/">Course in Catalog</a></li>
+                        <li><a href="/schedule/terms/CS/211?year=2024&AMP;term=fall">List of Terms offered</a></li>
+                        <li>
+                            <a href="/pdf/schedule/2024/fall/CS/211">
+                                PDF <img src="/static/images/pdf.png"/>
+                            </a>
+                        </li>
+                        <li>
+                            <a target="_BLANK" href="https://go.illinois.edu/RegisterForClasses" class="btn btn-xs app-btn-link" style="padding:0 3px;">
+                                Register for Classes
+                            </a>
+                        </li>
+                    </ul>    
+                </div>
+
+                            
+                  
+                <div class="col-sm-12">    
+                    
+
+    <p><b>Credit:</b> 3 hours.</p>                    
+    
+
+
+    
+        
+            <p>Navigating the complex ethical and professional landscape of the computing professional: privacy, intellectual property, cybersecurity, and freedom of speech. Hands-on exercises, assignments, and discussions in which students analyze current events from perspectives in both philosophical and professional ethics. Writing professionally and technically in several writing assignments requiring peer review, workshops, and multiple rounds of editing and revising. </p>
+        
+        
+    
+
+
+    
+    
+        <p>Credit is not given for both <a href="/schedule/terms/CS/211">CS 211</a> and <a href="/schedule/terms/CS/210">CS 210</a> or <a href="/schedule/terms/ECE/316">ECE 316</a>. Prerequisite: <a href="/schedule/terms/CS/225">CS 225</a>.</p>
+    
+
+
+
+    
+
+
+
+    
+
+    
+
+ 
+    
+    <p class="app-margbot5">
+        <strong class="app-text-engage">This course satisfies the General Education Criteria in 
+            <span class="app-text-focus">
+                Fall 2024
+            </span> 
+            for:
+        </strong>
+
+    </p>
+    <ul class="list-unstyled sort-list">    
+        
+            
+                <li>Advanced Composition</li>
+            
+                    
+        
+    </ul>
+  
+
+                </div>    
+            </div>    
+            
+            
+            <div class="row">
+                <div class="col-sm-12">
+                    <a href="#toggleinfo" data-toggle="collapse" data-target="#toggle-info" aria-expanded="false" aria-controls="toggle-info">
+                        <span class="glyphicon glyphicon-info-sign" aria-hidden="true"></span> Status Icon Legend
+                    </a>
+                    <ul class="pull-right list-inline list-unstyled app-margbot5">
+                        <li style="padding-right:0;">
+                            <a href="/user/student/favorites/2024/fall" class="btn btn-xs app-btn-link" style="padding:0; width:100px;">
+                                My Favorites
+                            </a>
+                        </li>
+                        <li style="padding-left:0;">
+                            <a href="/user/student/courselist/2024/fall" class="btn btn-xs app-btn-link" style="padding:0; width:100px;">
+                                My Schedule
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </div>    
+            <div id="toggle-info" class="collapse">
+                
+                <dl class="dl-horizontal">
+                    <dt><img src="/static/images/sectionClosed.png" alt="Closed"/></dt>
+                    <dd>Section Status Closed</dd>
+                    <dt><img src="/static/images/sectionOpen.png" alt="Open"/></dt>
+                    <dd>Section Status Open</dd>
+                    <dt><img src="/static/images/sectionPending.png" alt="Pending"/></dt>
+                    <dd>Section Status Pending</dd>
+                    <dt><img src="/static/images/sectionRestricted.png" alt="Open (Restricted)"/></dt>
+                    <dd>Section Status Open (Restricted)</dd>
+                    <dt><img src="/static/images/sectionUnknown.png" alt="Unknown"/></dt>
+                    <dd>Section Status Unknown</dd>
+                </dl>
+            </div>
+          
+                <div class="clearfix" style="border-bottom:1px solid #ccc;margin-bottom:2px;">
+                    <span class="app-text-focus" style="vertical-align:-5px;"><b>Section Status updates every 10 minutes.</b></span>
+                    <ul class="pull-right list-inline list-unstyled" style="margin-bottom:2px;">
+                        <li>
+                            <div class="btn-group" role="group" aria-label="...">
+                                <button type="button" class="btn app-btn-dflt btn-xs disabled" id="expandAllTR">Show Section Details</button>
+                                <button type="button" class="btn app-btn-dflt btn-xs" id="collapseAllTR">Hide Section Details</button>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="btn-group">
+                                <button type="button" class="btn app-btn-dflt btn-xs dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
+                                    
+                                    
+                                        
+                                    
+                                    CS - All Classes 
+                                    <span class="caret"></span>
+                                </button>
+                                <ul class="dropdown-menu dropdown-menu-right" role="menu">
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/100" tabindex="-1" role="menuitem">
+                                                CS 100
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/101" tabindex="-1" role="menuitem">
+                                                CS 101
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/105" tabindex="-1" role="menuitem">
+                                                CS 105
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/107" tabindex="-1" role="menuitem">
+                                                CS 107
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/124" tabindex="-1" role="menuitem">
+                                                CS 124
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/128" tabindex="-1" role="menuitem">
+                                                CS 128
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/173" tabindex="-1" role="menuitem">
+                                                CS 173
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/199" tabindex="-1" role="menuitem">
+                                                CS 199
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/210" tabindex="-1" role="menuitem">
+                                                CS 210
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/211" tabindex="-1" role="menuitem">
+                                                CS 211
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/222" tabindex="-1" role="menuitem">
+                                                CS 222
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/225" tabindex="-1" role="menuitem">
+                                                CS 225
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/233" tabindex="-1" role="menuitem">
+                                                CS 233
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/307" tabindex="-1" role="menuitem">
+                                                CS 307
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/340" tabindex="-1" role="menuitem">
+                                                CS 340
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/341" tabindex="-1" role="menuitem">
+                                                CS 341
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/357" tabindex="-1" role="menuitem">
+                                                CS 357
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/361" tabindex="-1" role="menuitem">
+                                                CS 361
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/374" tabindex="-1" role="menuitem">
+                                                CS 374
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/397" tabindex="-1" role="menuitem">
+                                                CS 397
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/400" tabindex="-1" role="menuitem">
+                                                CS 400
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/401" tabindex="-1" role="menuitem">
+                                                CS 401
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/407" tabindex="-1" role="menuitem">
+                                                CS 407
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/409" tabindex="-1" role="menuitem">
+                                                CS 409
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/410" tabindex="-1" role="menuitem">
+                                                CS 410
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/411" tabindex="-1" role="menuitem">
+                                                CS 411
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/412" tabindex="-1" role="menuitem">
+                                                CS 412
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/413" tabindex="-1" role="menuitem">
+                                                CS 413
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/415" tabindex="-1" role="menuitem">
+                                                CS 415
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/418" tabindex="-1" role="menuitem">
+                                                CS 418
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/421" tabindex="-1" role="menuitem">
+                                                CS 421
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/422" tabindex="-1" role="menuitem">
+                                                CS 422
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/423" tabindex="-1" role="menuitem">
+                                                CS 423
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/424" tabindex="-1" role="menuitem">
+                                                CS 424
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/425" tabindex="-1" role="menuitem">
+                                                CS 425
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/426" tabindex="-1" role="menuitem">
+                                                CS 426
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/427" tabindex="-1" role="menuitem">
+                                                CS 427
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/433" tabindex="-1" role="menuitem">
+                                                CS 433
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/437" tabindex="-1" role="menuitem">
+                                                CS 437
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/438" tabindex="-1" role="menuitem">
+                                                CS 438
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/439" tabindex="-1" role="menuitem">
+                                                CS 439
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/440" tabindex="-1" role="menuitem">
+                                                CS 440
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/441" tabindex="-1" role="menuitem">
+                                                CS 441
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/444" tabindex="-1" role="menuitem">
+                                                CS 444
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/445" tabindex="-1" role="menuitem">
+                                                CS 445
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/446" tabindex="-1" role="menuitem">
+                                                CS 446
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/447" tabindex="-1" role="menuitem">
+                                                CS 447
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/450" tabindex="-1" role="menuitem">
+                                                CS 450
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/460" tabindex="-1" role="menuitem">
+                                                CS 460
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/461" tabindex="-1" role="menuitem">
+                                                CS 461
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/463" tabindex="-1" role="menuitem">
+                                                CS 463
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/465" tabindex="-1" role="menuitem">
+                                                CS 465
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/466" tabindex="-1" role="menuitem">
+                                                CS 466
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/468" tabindex="-1" role="menuitem">
+                                                CS 468
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/470" tabindex="-1" role="menuitem">
+                                                CS 470
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/473" tabindex="-1" role="menuitem">
+                                                CS 473
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/474" tabindex="-1" role="menuitem">
+                                                CS 474
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/475" tabindex="-1" role="menuitem">
+                                                CS 475
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/476" tabindex="-1" role="menuitem">
+                                                CS 476
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/481" tabindex="-1" role="menuitem">
+                                                CS 481
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/483" tabindex="-1" role="menuitem">
+                                                CS 483
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/484" tabindex="-1" role="menuitem">
+                                                CS 484
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/491" tabindex="-1" role="menuitem">
+                                                CS 491
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/492" tabindex="-1" role="menuitem">
+                                                CS 492
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/497" tabindex="-1" role="menuitem">
+                                                CS 497
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/498" tabindex="-1" role="menuitem">
+                                                CS 498
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/499" tabindex="-1" role="menuitem">
+                                                CS 499
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/500" tabindex="-1" role="menuitem">
+                                                CS 500
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/511" tabindex="-1" role="menuitem">
+                                                CS 511
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/512" tabindex="-1" role="menuitem">
+                                                CS 512
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/514" tabindex="-1" role="menuitem">
+                                                CS 514
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/521" tabindex="-1" role="menuitem">
+                                                CS 521
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/527" tabindex="-1" role="menuitem">
+                                                CS 527
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/537" tabindex="-1" role="menuitem">
+                                                CS 537
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/538" tabindex="-1" role="menuitem">
+                                                CS 538
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/539" tabindex="-1" role="menuitem">
+                                                CS 539
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/542" tabindex="-1" role="menuitem">
+                                                CS 542
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/543" tabindex="-1" role="menuitem">
+                                                CS 543
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/545" tabindex="-1" role="menuitem">
+                                                CS 545
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/546" tabindex="-1" role="menuitem">
+                                                CS 546
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/547" tabindex="-1" role="menuitem">
+                                                CS 547
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/549" tabindex="-1" role="menuitem">
+                                                CS 549
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/556" tabindex="-1" role="menuitem">
+                                                CS 556
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/562" tabindex="-1" role="menuitem">
+                                                CS 562
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/567" tabindex="-1" role="menuitem">
+                                                CS 567
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/571" tabindex="-1" role="menuitem">
+                                                CS 571
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/579" tabindex="-1" role="menuitem">
+                                                CS 579
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/582" tabindex="-1" role="menuitem">
+                                                CS 582
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/591" tabindex="-1" role="menuitem">
+                                                CS 591
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/597" tabindex="-1" role="menuitem">
+                                                CS 597
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/598" tabindex="-1" role="menuitem">
+                                                CS 598
+                                            </a>
+                                        </li>
+                                    
+                                        
+                                        <li role="presentation">
+                                            <a  class="text-right" href="/schedule/2024/fall/CS/599" tabindex="-1" role="menuitem">
+                                                CS 599
+                                            </a>
+                                        </li>
+                                    
+                                </ul>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            <!--</div>-->
+            
+                              
+            <div id="icon-help" class="panel panel-info" style="display:none;">
+                <div class="panel-heading">
+                    <a type="button" class="close app-toggle" data-target="icon-help" href="#">&times;</a>
+                    <b>STATUS ICON LEGEND</b>
+                </div>
+                <div class="panel-body">
+                    <p><img class="app-top" src="/static/images/sectionOpen.png"/>&#160;&#160;<em class="text-muted">Section is Open</em></p>
+                    <p><img class="app-top" src="/static/images/sectionRestricted.png"/>&#160;&#160;<em class="text-muted">Section is Open with Restrictions</em></p>
+                    <p><img class="app-top" src="/static/images/sectionClosed.png"/>&#160;&#160;<em class="text-muted">Section is Closed</em></p>
+                    <p><img class="app-top" src="/static/images/sectionPending.png"/>&#160;&#160;<em class="text-muted">Section is Pending</em></p>
+                    <p><img class="app-top" src="/static/images/sectionUnknown.png"/>&#160;&#160;<em class="text-muted">Section is availability is unknown</em></p>
+                </div>
+                <div class="panel-footer">   
+                        <button type="button" class="btn btn-default btn-xs app-toggle" data-target="icon-help">Close</button>
+                    </div>
+            </div>                  
+            
+             
+            
+            <div class="table-responsive">
+            <table id="section-dt" class="table table-condensed">
+                <thead>
+                    <tr>
+                        <th>Detail</th>
+                        <th>Status</th>
+                        <th>
+                            <!--<span data-toggle="tooltip" data-placement="bottom" class="app-tooltip glyphicon glyphicon-star-empty" title="Favorites"></span>-->
+                            <span class="glyphicon glyphicon-star-empty" title="Favorites"></span>
+                        </th>
+                        <th>CRN</th>
+                        <th>Type</th>
+                        <th>Section</th>
+                        <th>Time</th>
+                        <th>Day</th>
+                        <th>Location</th>
+                        <th>Instructor</th>
+                    </tr>
+                </thead>
+                <tbody></tbody>
+            </table>
+            </div>    
+            
+        </div> <!-- end col-sm-12 -->
+    </div> <!-- end row-fluid -->
+    
+    
+    
+</div> 
+
+
+    </div> 
+
+    
+    <div id="push"></div>
+
+    </div> 
+
+    
+    <footer id="footer" role="contentinfo">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-1">
+                <a target="_blank" href="http://illinois.edu" class="pull-right">
+                    <img alt="Illinois logo" src="/static/images/Illinois-Logo-footer.png" />
+                </a>
+            </div>
+            <div class="col-sm-11">
+                <p>
+                    <strong>
+                        <a href="http://registrar.illinois.edu/">OFFICE OF THE REGISTRAR</a>
+                    </strong> | 901 W. Illinois Street, Suite 140, Urbana, Illinois 61801</p>
+                <p>
+                    Site developed by: <strong>
+                        <a target="_blank" href="http://techservices.illinois.edu/">Technology Services at Illinois</a>
+                    </strong>  |  
+                    <a target="_blank" href="http://illinois.edu/">UNIVERSITY OF ILLINOIS URBANA-CHAMPAIGN</a>
+                </p>
+                <p>1102 Digital Computer Laboratory | MC-256 | Urbana, IL 61801 
+                    | phone <a href="tel:2172447000">217-244-7000</a> 
+                    | email <a href="https://illinois.edu/fb/sec/2080949">Course Explorer Feedback</a>
+                </p>
+                <p>
+                    <a href="https://www.vpaa.uillinois.edu/resources/web_privacy">Web Privacy Notice</a>
+                </p>
+            </div>
+        </div>
+    </div>
+    <!--OneTrust Cookies Settings button start --><a class="optanon-show-settings">Cookie Settings</a><!--OneTrust Cookies Settings button end -->
+</footer>
+
+
+    <script src="/static/js/class-schedule.js"></script>
+
+<script src="/static/js/application.js"></script>
+
+
+
+
+
+    
+    
+    <noscript>
+        <div id="noscript-warning">Course Explorer works best with JavaScript enabled</div>
+    </noscript>
+
+    
+
+    <!--OneTrust Cookies Consent Notice (Production CDN, illinois.edu, en-GB) end -->
+</body>
+</html>

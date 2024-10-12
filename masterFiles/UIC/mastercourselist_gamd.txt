@@ -1,0 +1,2 @@
+GAMD_200	1
+GAMD_XXX	0

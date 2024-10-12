@@ -1,0 +1,48 @@
+AAS 	African-​American Studies 
+ACC 	Accounting 
+ART 	Visual Arts 
+ASP 	Astronomy-​Physics 
+ATH 	Athletic Training 
+BIO 	Biology 
+BUS 	Business Administration 
+CAP 	Capital Scholars 
+CCJ 	Criminology and Criminal Justice 
+CHE 	Chemistry 
+COM 	Communication 
+CSC 	Computer Science 
+DAT 	Data Analytics 
+ECO 	Economics 
+EDL 	Educational Leadership 
+ENG 	English 
+ENS 	Environmental Studies 
+EXR 	Exercise Science 
+FIN 	Finance 
+HCI 	Healthcare Informatics 
+HDC 	Human Development Counseling 
+HIS 	History 
+HMS 	Human Services 
+IGS 	International and Global Studies 
+IPL 	Internships and Prior Learning 
+LES 	Legal Studies 
+LIS 	Liberal Studies 
+LNG 	Modern Languages 
+LNT 	Liberal and Integrative Studies 
+MAT 	Mathematical Sciences 
+MGT 	Management 
+MIS 	Management Information Systems 
+MKT 	Marketing 
+MLS 	Medical Laboratory Science 
+MPH 	Public Health 
+MUS 	Music 
+PAD 	Public Administration 
+PAR 	Public Affairs Reporting 
+PHI 	Philosophy 
+PSC 	Political Science 
+PSY 	Psychology 
+SOA 	Sociology/​Anthropology 
+SPM 	Sport Management 
+SWK 	Social Work 
+TEP 	Teacher Education 
+THE 	Theatre 
+UNI 	University Courses 
+WGS 	Women and Gender Studies 

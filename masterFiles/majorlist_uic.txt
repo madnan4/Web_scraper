@@ -1,0 +1,173 @@
+ACTG	Accounting
+AH  	Art History
+AHS 	Applied Health Sciences
+ANAT	Anatomy and Cell Biology
+ANTH	Anthropology
+ARAB	Arabic
+ARCH	Architecture
+ART 	Art
+ASP 	Academic Skills Program
+BA  	Business Administration
+BCMG	Biochem & Molecular Genetics
+BHIS	Biomedical &Hlth Info Sciences
+BIOS	Biological Sciences
+BLST	Black Studies
+BME 	Biomedical Engineering
+BPS 	Biopharmaceutical Sciences
+BSTT	Biostatistics
+BVIS	Biomedical Visualization
+CC  	Campus Courses
+CD  	City Design
+CEES	Central &East European Studies
+CELE	Clerkship Electives-Chicago
+CEP 	Clinical Exercise Physiology
+CHE 	Chemical Engineering
+CHEM	Chemistry
+CHIN	Chinese
+CHSC	Community Health Sciences
+CI  	Curriculum and Instruction
+CL  	Classics
+CLER	Clerkship - Medicine
+CLJ 	Criminology, Law, and Justice
+CME 	Civil, Matls & Env Engineering
+COMM	Communication
+CS  	Computer Science
+CST 	Catholic Studies
+DADM	Dental Administration
+DAOB	Dent-Applied Oral & Behav Sci
+DBCS	Dent-Biomedical & Clinical Sci
+DCLE	Dent-Community Learning Exper
+DES 	Design
+DHD 	Disability & Human Development
+DLG 	Dialogue
+DOSI	Dent-Oral/Systemic Issues
+DOST	Dent-Oral/Systemic Topics
+EAES	Earth & Environmental Sciences
+EB  	Employee Benefits
+ECE 	Electrical and Computer Engr
+ECON	Economics
+ED  	Education
+EDPS	Educational Policy Studies
+ELSI	Engl Lang & Support for Intls
+ENDO	Endodontics
+ENER	Energy Engineering
+ENGL	English
+ENGR	Engineering
+ENTR	Entrepreneurship
+EOHS	Environmtl & Occuptnl Hlth Sci
+EPID	Epidemiology
+EPSY	Educational Psychology
+FIN 	Finance
+FR  	French
+GAMD	Guaranteed Admissions Medicine
+GC  	Graduate College
+GEMS	Graduate Educ Medical Sciences
+GEOG	Geography
+GER 	Germanic Studies
+GKA 	Greek, Ancient
+GKM 	Greek, Modern
+GLAS	Global Asian Studies
+GWS 	Gender and Women's Studies
+HIM 	Health Information Management
+HIST	History
+HLP 	Healthy Living Practitioner
+HN  	Human Nutrition
+HNUR	Hindi-Urdu
+HON 	Honors College
+HPA 	Health Policy & Administration
+HUM 	Humanities
+IDEA	Interdisc Educ in the Arts
+IDS 	Information &Decision Sciences
+IE  	Industrial Engineering
+INST	International Studies
+IP  	Intellectual Property
+IPHS	Interdisc Public Hlth Sciences
+ISA 	Interdisc Studies in the Arts
+ITAL	Italian
+JD  	Juris Doctor
+JPN 	Japanese
+JST 	Jewish Studies
+KN  	Kinesiology
+KOR 	Korean
+LALS	Latin American &Latino Studies
+LAS 	Liberal Arts and Sciences
+LAT 	Latin
+LAW 	Law
+LCSL	Literatures, Cultrl Stdy &Ling
+LIB 	Library & Information Science
+LING	Linguistics
+LITH	Lithuanian
+LRSC	Learning Sciences
+MATH	Mathematics
+MBA 	Master of Business Admin
+MBT 	Medical Biotechnology
+MCS 	Mathematical Computer Science
+MDC 	Doctor of Medicine - Chicago
+MDCH	Medicinal Chemistry
+MDP 	Doctor of Medicine - Peoria
+MDR 	Doctor of Medicine - Rockford
+ME  	Mechanical Engineering
+MENG	Master of Engineering
+MGMT	Management
+MHPE	Medical Education
+MHUM	Medical Humanities
+MILS	Military Science
+MIM 	Microbiology and Immunology
+MKTG	Marketing
+MOVI	Moving Image Arts
+MTHT	Mathematics Teaching
+MUS 	Music
+MUSE	Museum and Exhibition Studies
+NATS	Natural Sciences
+NEUS	Neuroscience
+NS  	Naval Science
+NUEL	Nursing Elective
+NUPR	Nursing Practicum
+NURS	Nursing Core
+NUSP	Nursing Specialty
+OMDS	Oral Medicine & Diagnostic Sci
+ORTD	Orthodontics
+OSCI	Oral Sciences
+OT  	Occupational Therapy
+PA  	Public Administration
+PATH	Pathology
+PCOL	Pharmacology
+PEDD	Pediatric Dentistry
+PELE	Clerkship Electives-Peoria
+PERI	Periodontics
+PHAR	Pharmacy
+PHIL	Philosophy
+PHYB	Physiology and Biophysics
+PHYS	Physics
+PMPG	Pharmacognosy
+PMPR	Pharmacy Practice
+POL 	Polish
+POLS	Political Science
+PORT	Portuguese
+PPA 	Public Policy Analysis
+PPOL	Public Policy
+PROS	Prosthodontics
+PSCH	Psychology
+PSCI	Pharmaceutical Sciences
+PSL 	Patient Safety Leadership
+PSOP	Pharmacy Syst,Outcomes &Policy
+PT  	Physical Therapy
+PUBH	Public Health
+RELE	Clerkship Electives-Rockford
+RELS	Religious Studies
+RES 	Real Estate Studies
+RUSS	Russian
+SABR	Study Abroad
+SJ  	Social Justice
+SOC 	Sociology
+SOCW	Social Work
+SPAN	Spanish
+SPED	Special Education
+STAT	Statistics
+SURG	Surgery
+TADR	Trial Advocacy & Dispute Resol
+THTR	Theatre
+TX  	Taxation
+UPA 	Urban and Public Affairs
+UPP 	Urban Planning and Policy
+US  	Urban Studies
